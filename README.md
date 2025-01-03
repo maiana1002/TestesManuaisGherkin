@@ -9,3 +9,7 @@ O HEMOBA é uma fundação dedicada à coleta, processamento e distribuição de
 
 ## Objetivo do Projeto ##
 Estou utilizando a linguagem Gherkin para documentar os testes manuais como forma de treinamento prático na escrita estruturada de testes e no domínio da linguagem, visando aprimorar habilidades e preparar cenários reutilizáveis para possíveis automações futuras.
+
+## Ferramenta auxiliar ##
+- JIRA
+  
