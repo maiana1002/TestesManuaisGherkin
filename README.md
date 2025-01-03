@@ -1,5 +1,9 @@
 # HEMOBA - Testes Manuais com Gherkin 🩸
 
+## Casos de Testes no Jira  
+Os casos de testes detalhados podem ser acessados [aqui] https://maianaoliveira.atlassian.net/jira/software/projects/KAN/boards/1).
+É necessário ter uma conta para visualizar
+
 ## Sobre o HEMOBA ## 
 O HEMOBA é uma fundação dedicada à coleta, processamento e distribuição de sangue e seus derivados no estado da Bahia, além de promover campanhas de doação de sangue e cadastro de doadores de medula óssea.
 
